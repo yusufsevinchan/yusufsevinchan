@@ -1,13 +1,10 @@
 <h1 align="center">👋 Hi Everyone, I'm Yusuf Sevinchan</h1>
-<h2 align="center"><em>I'm a Student and Developer from Istanbul</em></h2>
-
 
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
 🔭 I’m currently working on <strong>global prayer time applications</strong> and a <strong>weather extension</strong>.<br>
-🌱 I’m currently learning <strong>JavaScript</strong> and <strong>front-end development</strong>.<br>
+🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Chrome Extension development</strong>.<br>
 💬 Ask me about anything related to <strong>C#, .NET, SQL, Python</strong>.<br>
-⚡ Fun fact: I love exploring new technologies and building innovative projects!
 </p>
 
 ---
@@ -65,7 +62,7 @@
   <a href="https://www.linkedin.com/in/yusuf-sevinchan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/yusuf.sevinchan13/" target="_blank">
+  <a href="https://www.instagram.com/yusuf.sevinchan.official/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
