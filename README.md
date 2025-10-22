@@ -36,8 +36,7 @@
   <section id="skills">
     <h2>🛠️ My Skills</h2>
     <figure style="text-align: left; margin: 0;">
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cs&theme=light" alt="Programming Languages: HTML, CSS, JavaScript, Python, C, C#" loading="lazy" />
-      <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET Framework" loading="lazy" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cs&theme=light" alt="Programming Languages: HTML, CSS, JavaScript, Python, C, C#, dotnet" loading="lazy" />
       <img src="https://img.icons8.com/color/50/microsoft-sql-server.png" alt="Microsoft SQL Server" height="50" loading="lazy" />
     </figure>
   </section>
