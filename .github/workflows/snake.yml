@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # günde 2 kez (DOĞRU cron)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,24 +12,35 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare dist folder
+        run: |
+          rm -rf dist
+          mkdir dist
+
       - name: Generate snake (dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake-dark.svg?palette=github-dark
 
       - name: Generate snake (light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-light.svg?palette=github-light
+          outputs: dist/snake-light.svg?palette=github-light
+
+      - name: Add .nojekyll
+        run: |
+          touch dist/.nojekyll
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
