@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Yusuf Sevinchan**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yusufsevinchan&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=yusufsevinchan&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/yusufsevinchan)
 [![GitHub followers](https://img.shields.io/github/followers/yusufsevinchan?style=social)](https://github.com/yusufsevinchan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-sevinchan/)
 
