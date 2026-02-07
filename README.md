@@ -33,8 +33,8 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsevinchan&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsevinchan&layout=compact&theme=default&hide_border=true" height="170" alt="GitHub Stats" />
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsevinchan&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsevinchan&layout=compact&theme=default&hide_border=true" height="170" alt="GitHub Stats" />
   </picture>
 </p>
 
