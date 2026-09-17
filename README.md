@@ -73,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yusuf.sevinchan.official/">
+  <a href="https://www.instagram.com/its.yusuf.han/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
   </a>
 </p>
